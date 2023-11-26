@@ -100,7 +100,7 @@ Previewing requests before sending them along The Wire has never felt so pythoni
 - *`hei = __import__("perfection").__mul__("a sea of").__pow__(2)`*
 
 <a href="https://en.wikipedia.org/wiki/HTTP_404"><strong>Amped Up Internet User</strong></a>, CFO of:
-- _"Shipping this in production as we speak and haven't looked back. Total game changer. (I use arch btw)"_
+- _"Shipping this in production as we speak and never looked back. Total game changer. (I use arch btw)"_
 
 <a href="https://en.wikipedia.org/wiki/HTTP_404"><strong>Ben Shiller</strong></a>, producer of:
 - _"Would love to see how this compares to [INSERT MY PRODUCT HERE]."_
